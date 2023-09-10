@@ -7,4 +7,4 @@
 - _Network(Retrofit2 or Ktor)_
 - _Firebase_
 - _SQLite_
-- _Maybe unit tests 😭 🤢_
+- _Maybe unit tests 😭  🤢_
